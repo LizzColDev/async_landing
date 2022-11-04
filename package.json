@@ -1,0 +1,23 @@
+{
+  "name": "async_landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LizzColDev/async_landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LizzColDev/async_landing/issues"
+  },
+  "homepage": "https://github.com/LizzColDev/async_landing#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
